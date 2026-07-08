@@ -2,33 +2,37 @@
  
  <script src="https://unpkg.com/typeit@8.8.7/dist/index.umd.js"></script> 
 
-
-
 <script>
-document.addEventListener("DOMContentLoaded", () => {
+ document.addEventListener("DOMContentLoaded", () => {
+    // 1. Seguimos usando clases por el duplicado de Blowfish
+    const headlines = document.querySelectorAll(".typeit-headline");
 
-    const headline = document.getElementById("typeit-headline");
+    if (headlines.length === 0) return;
 
-    if (!headline) return;
+    headlines.forEach((elemento) => {
+        // Evitamos que se ejecute dos veces si el script se vuelve a disparar
+        if (elemento.classList.contains("typeit-initialized")) return;
+        elemento.classList.add("typeit-initialized");
 
-    const texto = headline.innerHTML;
+        const texto = elemento.innerHTML.trim();
+        elemento.innerHTML = "";
 
-    headline.innerHTML = "";
-
-    new TypeIt("#typeit-headline", {
-        strings: texto,
-        speed: 50,
-        lifeLike: true,
-        html: true,
-        cursor: false,
-        loop: false,
-        waitUntilVisible: true
-    })
-    .pause(500)
-    .break({ delay: 500 })
-    .type("<em>Philippians 4:13</em>")
-    .go();
-
+        new TypeIt(elemento, {
+            strings: texto,
+            speed: 50,
+            lifeLike: true,
+            html: true,
+            cursor: false,
+            loop: false,
+            // 2. FALSO: Eliminamos el cálculo de visibilidad que falla en móviles reales
+            waitUntilVisible: false 
+        })
+        .pause(500)
+        .break({ delay: 500 })
+        .type("<em>Philippians 4:13</em>")
+        .go();
+    });
 });
-</script> 
+</script>
 
+ 
