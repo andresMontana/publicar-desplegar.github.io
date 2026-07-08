@@ -1,0 +1,34 @@
+
+ 
+ <script src="https://unpkg.com/typeit@8.8.7/dist/index.umd.js"></script> 
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+
+    const headline = document.getElementById("typeit-headline");
+
+    if (!headline) return;
+
+    const texto = headline.innerHTML;
+
+    headline.innerHTML = "";
+
+    new TypeIt("#typeit-headline", {
+        strings: texto,
+        speed: 50,
+        lifeLike: true,
+        html: true,
+        cursor: false,
+        loop: false,
+        waitUntilVisible: true
+    })
+    .pause(500)
+    .break({ delay: 500 })
+    .type("<em>Philippians 4:13</em>")
+    .go();
+
+});
+</script> 
+
