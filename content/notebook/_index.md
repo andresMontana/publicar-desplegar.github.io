@@ -2,4 +2,10 @@
 title: 'Note Book'
 ---
 
-In this section, I post about Excel, Power Query, R, Python, Power BI, Excel VBA, Statistics, Mathematics, Books, Short stories... and sometimes, just sometimes, about myself.
+In this section, I post about:
+* Excel & VBA Excel, Power Query, Power BI. 📈
+* R, Python, SQL. 💻
+* Statistics, Mathematics, WFM.{{< katex >}} 👨‍🏫
+* Books, stories... and sometimes, just sometimes, about myself. 📕🙋
+* Like, almost anything that isn't directly Christian content.✨
+---
