@@ -11,9 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Home"
-  pageRef = "index"
+  name = "Blog"
   weight = 1
+  [[main]]
+    name = "My Faith"
+    parent ="Blog"
+    pageRef= "faith"
+      weight = 11
+  [[main]]
+    name = "Notebook"
+    parent ="Blog"
+    pageRef= "notebook"
+    weight = 12
 
 [[main]]
   name = "Posts"

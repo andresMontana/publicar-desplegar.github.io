@@ -1,26 +1,48 @@
-+++
-date= '2026-07-07T10:00:00-05:00'
-draft= false
-title= 'About Me'
-+++
+---
+date: '2026-07-07T10:00:00-05:00'
+draft: false
+title: 'About Me'
+---
 
-Hi, My name is Andres Montaña. Thanks for visiting! I bought this domain about 4 years ago when I was working on a project using Azure Application Gateway. I found myself staring at my screen for hours trying to understand how I could get it to do what I needed, all the time muttering to myself
+## Hello, everyone 👋
 
-"how do I do that?"
+My name is **Andrés Montaña**, although most people simply call me **" The Montaña."**
 
-"how do I make this work?"
+## Who am I?
 
-"how do I do this cloud thing?"
- 😄
+That's quite a philosophical question—epistemologically complicated, even... But for me, the answer is simple: **I am who God says I am: His child.**
 
-Fast forward a few years and I hadn't done anything with it other than some self hosted projects. So I have decided to turn it into a personal blog where I can share my experiences working in the cloud. Specifically Microsoft Azure.
+Now, you're probably wondering what else there is to know about me.
 
-I currently hold Azure Solutions Architect Expert certification, which you can verify [here](https://learn.microsoft.com/en-gb/users/paulmccormack-9080/credentials/6f29b8a2ab4cc722) if you like.
+I'm in my final year of **Industrial Engineering**. I'm passionate about programming, even though my formal education isn't in software engineering. I enjoy constantly learning, exploring new technologies, and challenging myself with new ideas.
 
+I also love reading and writing, statistics, mathematics, linear programming, and, above all, teaching and sharing what I learn. I believe knowledge doesn't belong to us—it should be used to serve others.
 
-I am fully commited to continued learning and sharing knowledge however I can.  I suppose the primary purpose of this site is to act as a source of reference for myself, but if others find it useful too then that's a bonus!
+## So... how do I earn my 🥖? How do I pay the bills? 😅
 
+Over the past few years, I've worked in **Workforce Management (WFM)**, where I've had the opportunity to automate repetitive tasks and analyze data using tools such as **Power Automate, Power BI, Power Query, VBA, SQL, R, and Python**. I also enjoy web development, so I regularly work with **HTML, CSS**, and occasionally **JavaScript** and **PHP**.
 
-The site is built using [Hugo](https://gohugo.io/) with the [Blowfish](https://blowfish.page/) theme and is hosted on [GitHub Pages](https://docs.github.com/en/pages). One of the first original posts I will be making on here is how I went about setting this up. The tools I used are really great for building static sites quickly and so far it hasn't cost me anything other than the domain registration.  I've been uploading deployments and write up's to my GitHub account, which you can find by clicking the link below.  Over time I plan to transfer them all here and tidy up the GitHub readme files to reduce repetition.
+Part of my work involves building demand forecasts, analyzing service levels and AHT, and creating schedules that help operations run as efficiently as possible.
 
-It's a bit sparse at the moment but I will be adding more content over time.  Watch this space!
+I don't like staying idle, though, so I have another way of making a living. I absolutely love cooking barrel-roasted meat, and—according to my friends—I'm pretty good at it. Crispy pork belly, pork shoulder, whole pork legs, chicken wings, marinated drumsticks, and soon... **smoked barbecue!** 🤤
+
+In fact, my friends often ask me to cook for them, so it has turned into a nice little side business. I'd say it's a win-win for everyone.
+
+## Why this blog?
+
+This blog is my little corner of the internet where I share what I'm learning about programming, automation, data analysis, productivity, and whatever else sparks my curiosity.
+
+I don't claim to have all the answers. My goal is simply to document the journey, share ideas, and hopefully help someone solve a problem or learn something new along the way.
+
+If you'd like to know more about why I started this blog and the story behind it, feel free to read this post.
+
+## See you around!
+
+Thanks for stopping by. I hope you find something useful, interesting, or at the very least, something enjoyable to read.
+
+I enjoy meaningful conversations—especially about Christ, faith, technology, and the things we learn throughout life. If you'd like to chat, ask a question, or just say hello, feel free to get in touch.
+
+_**May the grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you.**_
+
+**God bless you!** 🙏
+
