@@ -4,11 +4,20 @@ draft = false
 title = 'How This Site Was Born'
 showAuthor= true
 showAuthorBottom= true
+defaultBackgroundImage = ""
 +++
 
+<style>
+  body {
+    background-image: url('feature.png') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+  }
+</style>
 <div style="text-align: justify;">
 
-## La necesidad
+## 😓 La necesidad
 
 En mayo del 2026 me quedé sin empleo después de trabajar de forma ininterrumpida desde el 2019. Y ahí estaba: desempleado y necesitando un empleo pronto.
 
@@ -22,7 +31,7 @@ Decidí publicar sobre WFM principalmente, pues a eso me dedicaba, o aún me ded
 Busqué ejemplos de publicaciones. Primero en WFM, después en Ciencia de Datos y luego en general. En la mayoría de posts, las personas solían hacer publicaciones muy parecidas (y no me refiero al contenido per se), genéricas, faltas de creatividad. Parecían todas un producto enlatado y producido en masa (quizás no seguía a los adecuados); eran muy superficiales: imágenes creadas con IA, muy parecidas todas, todo muy corto y directo, pero eso era lo que recomendaban los foros. Los reclutadores dan miradas rápidas, no se detienen a leer mucho, y la gente, en promedio, ya no puede mantener la atención en una sola cosa por mucho tiempo, menos si es para leer. Eso no me representa. 
 ______
 
-## Surge la idea
+## 💡 Surge la idea 
 De pronto tuve una idea: ¿y si creo un blog y en LinkedIn posteo un breve resumen de las entradas del blog? Quizás hasta tener un blog mejoraba mi perfil también.
 
 Sí, un blog parecía una estupenda idea: me gusta escribir mucho, y ser corto y poco extenso sin haber la necesidad no es lo mío; con esto puedo poner posts cortos y, si les interesa leer o ahondar más, podrían ir allí.
@@ -32,26 +41,36 @@ Entonces, una idea que yo llamo “la primera segunda gran intención” brotó 
 Era un pensamiento tan obvio que reclamó (y con justa razón) ser la idea principal y de mayor fuerza: volcar aquí lo más que pueda de conocimiento para que no lo vuelva a perder y le sea de ayuda a otros.
 
 Esta primera segunda gran intención, con su propio ego, indignada porque tuvo que venir desde tan lejos, pues yo no parecía proclive a concebirla, explotó de ira y se ramificó; dividiéndose en pequeñas intenciones que me impulsaron a querer compartirlo casi todo. Y en ello, decidí incluir aquí algunos cuentos cortos que ya un tiempo atrás, muy atrás, escribí. Poemas también. Así que es la excusa perfecta para reencontrarme con una vieja pasión, poder escribir y darles rienda suelta a mis dedos (pondría tinta y papel en lugar de dedos, pero, aceptémoslo: estamos en el siglo XXI. La tinta, el papel y la pluma quedaron atrás; es hora de darle sentido poético y sublime a escribir con dedos, teclas y pantallas táctiles).
+
 Dejando la fantasía atrás, me siento convencido de que dicha idea, en realidad, la puso Dios en mí. Yo solo quería hacer un par de publicaciones hasta conseguir empleo, pero Dios me hizo ver que disfrutararía escribiendo aquí; que esto tiene potencial para ser mucho más que solo un paso hacia el próximo empleo. Y que, más bien, la falta de empleo era algo circunstancial. Debí haberme decidido mucho antes a actualizar LinkedIn y crear un blog.
+_______
 
-No me dejen ir por las ramas, por favor, me desvío fácilmente del tema principal.
+##  ✝️ ¿Y Cristo?
 
-Por último, como ya intuyes, soy cristiano. Decidí que debía haber un espacio para compartir sobre mi fe; esto nació de mi corazón. Al momento de escribir esto (julio del 2026), aún no sé qué poner en el espacio que mi fe ocupará en esto; quizás sugerencias de libros cristianos, reflexiones (que no me convence mucho), pero creo que debo incluir una parte así, pues Cristo debe ser primero.
+Como ya intuyes, soy cristiano. Decidí que debía haber un espacio para compartir sobre mi fe; esto nació de mi corazón. Al momento de escribir esto (julio del 2026), aún no sé qué poner en el espacio que mi fe ocupará en esto; quizás sugerencias de libros cristianos, reflexiones (que no me convence mucho), pero creo que debo incluir una parte así, pues Cristo debe ser primero.
 
-Mi conocimiento y empleo no me definen; Cristo me define. Mi identidad está en él. Por lo que, si he de escribir sobre lo que sé, con mayor razón he de escribir sobre lo que soy: un siervo y discípulo de Cristo, Señor y Salvador.
+>Mi conocimiento y empleo no me definen; Cristo me define. Mi identidad está en él. Por lo que, si he de escribir sobre lo que sé, con mayor razón he de escribir sobre lo que soy: un siervo y discípulo de Cristo, Señor y Salvador.
 
+_____
+
+## 😖 ¿por qué tengo que pagar? 
 Hacer este blog ha sido toda una experiencia. Desde encontrar el tema adecuado, las imágenes, los logos ideales. Los errores, la búsqueda de documentación, las IAs que, en lugar de ayudarte a corregir un bug, crean cien más.
 
 Comprar mi primer dominio: andresmontana.com fue algo completamente nuevo. Fue emocionante ser el dueño de un dominio por primera vez, pero me causó frustración saber que tenía que comprarlo. ¿Por qué debo pagarle a alguien, si se supone que el internet es libre? Pero ver el borrador del blog publicado bajo un dominio con mi nombre junto a un .com, y disponible para cualquiera, así como está disponible Wikipedia, fue muy excitante y fue motivo de mucha alegría para mí.
 
 Imaginen, en mi país, Colombia, el nombre Andrés Montaña es muuuuuuuy común; es increíble que nunca antes nadie había registrado el dominio. No creo en las casualidades; tomo esto con fe como prueba de que estaba en los planes de mi Señor.
 Espero que este blog me permita hacer nuevas relaciones, más allá de encontrar un nuevo empleo. Eso ya no me preocupa; creo que el blog será más grande que el objetivo de encontrar un empleo (ese llegará o no, independiente del blog).
+___
+
+## ✨ ¿Que espero con este Blog?
 
 Espero poder contactar con personas, intercambiar ideas, que surjan amistades cibernéticas y, sobre todo, ser útil para alguien, sacarle una sonrisa a más de uno, acercarme y acercar a otros un poco más a Dios mediante la reflexión y mis experiencias.
 
 Si solo una persona encuentra de utilidad un post o un archivo que comparta por aquí, el objetivo se habrá cumplido. Si solo una persona logra reflexionar, pensar o tomar una Biblia para leer por causa de este blog, el Señor habrá sido más que bueno conmigo y me habrá honrado permitiéndome servirle de esa forma.
 
-Que la gracia de mi Señor Cristo Jesús, el amor de Dios y la comunión del Espíritu Santo sean contigo. Amén.
+## 👋 La depedida de un Cristiano:
 
-Dios te bendiga.
+_**Que la gracia de mi Señor Cristo Jesús, el amor de Dios y la comunión del Espíritu Santo sean contigo. Amén**._
+
+_**Dios te bendiga.**_ 🙏
 </div>

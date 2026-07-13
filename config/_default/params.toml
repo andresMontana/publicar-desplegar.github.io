@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts", "notebook"]
 # robots = ""
 
 disableImageOptimization = false
@@ -25,7 +25,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "img/background.svg" # used as default for background images
+#defaultBackgroundImage = "img/background.svg" # used as default for background images
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 # defaultSocialImage = "/android-chrome-512x512.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -67,8 +67,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   homepageImage = "img/background.svg" # used in: hero, and card
   showRecent = true
   showRecentItems = 6
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLink = true
+  showMoreLinkDest =  "/posts/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
