@@ -11,7 +11,7 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About Me"
+  name = "Acerca de mí"
   pageRef = "about"
   weight = 1
 
@@ -19,12 +19,12 @@
   name = "Blog"
   weight = 2
   [[main]]
-    name = "My Faith"
+    name = "Mi fe"
     parent ="Blog"
     pageRef= "faith"
       weight = 21
   [[main]]
-    name = "Notebook"
+    name = "Notas"
     parent ="Blog"
     pageRef= "notebook"
     weight = 22

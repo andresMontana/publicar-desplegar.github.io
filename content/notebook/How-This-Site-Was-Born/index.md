@@ -4,73 +4,67 @@ draft = false
 title = 'How This Site Was Born'
 showAuthor= true
 showAuthorBottom= true
-defaultBackgroundImage = ""
+
 +++
 
-<style>
-  body {
-    background-image: url('feature.png') !important;
-    background-size: cover !important;
-    background-position: center !important;
-    background-attachment: fixed !important;
-  }
-</style>
+
 <div style="text-align: justify;">
 
-## 😓 La necesidad
+## 😓 The need
 
-En mayo del 2026 me quedé sin empleo después de trabajar de forma ininterrumpida desde el 2019. Y ahí estaba: desempleado y necesitando un empleo pronto.
+In May 2026, I lost my job after working continuously since 2019. And there I was: unemployed and needing a job soon.
 
-Me decidí a buscar empleo por LinkedIn. Actualicé mi perfil, uno que creé estando en la universidad y en el que no había añadido a nadie. Lo desempolvé, lo pulí y actualicé; puse un post genérico de “Se busca empleo”, o algo así. Pero las semanas pasaron y nada, no conseguí ninguna entrevista. Para mí no estaba resultando la increíble historia de empleos de ensueño encontrados por LinkedIn y de forma rápida.
+I decided to look for a job on [LinkedIn](https://linkedin.com). I updated my profile, one I had created back in college and where I hadn't added anyone. I dusted it off, polished it, and updated it; I put up a generic post saying "Looking for a job," or something like that. But weeks went by and nothing happened; I didn't get a single interview. For me, the amazing story of finding dream jobs quickly through LinkedIn was just not happening.
 
+I started reading about how to optimize my profile to generate genuine job offers. And talking to some friends, I found out that, apparently, posting and doing it consistently increased my reach, and that would help me find a job quickly.
 
-Empecé a leer sobre cómo optimizar mi perfil para generar ofertas de empleos genuinas. Y hablando con algunos amigos me enteré de que, aparentemente, publicar y hacerlo de forma constante aumentaba mi alcance, y eso me ayudaría a encontrar un empleo rápidamente.
+I decided to post mainly about WFM, since that was what I did, or still do (go to my LinkedIn to find out the latest news about this).
 
-Decidí publicar sobre WFM principalmente, pues a eso me dedicaba, o aún me dedico (ve a mi LinkedIn para saber la última noticia sobre esto).
-
-Busqué ejemplos de publicaciones. Primero en WFM, después en Ciencia de Datos y luego en general. En la mayoría de posts, las personas solían hacer publicaciones muy parecidas (y no me refiero al contenido per se), genéricas, faltas de creatividad. Parecían todas un producto enlatado y producido en masa (quizás no seguía a los adecuados); eran muy superficiales: imágenes creadas con IA, muy parecidas todas, todo muy corto y directo, pero eso era lo que recomendaban los foros. Los reclutadores dan miradas rápidas, no se detienen a leer mucho, y la gente, en promedio, ya no puede mantener la atención en una sola cosa por mucho tiempo, menos si es para leer. Eso no me representa. 
+I looked for examples of posts. First in WFM, then in Data Science, and then in general. In most posts, people used to make very similar publications (and I don't mean the content per se), generic, and lacking creativity. They all seemed like a mass-produced, canned product (maybe I wasn't following the right people); they were very superficial: images created with AI, all very similar, everything very short and direct, but that was what the forums recommended. Recruiters glance quickly, they don't stop to read much, and people, on average, can no longer hold their attention on one thing for long, even less so if it involves reading. That doesn't represent me. 
 ______
 
-## 💡 Surge la idea 
-De pronto tuve una idea: ¿y si creo un blog y en LinkedIn posteo un breve resumen de las entradas del blog? Quizás hasta tener un blog mejoraba mi perfil también.
+## 💡 The idea arises 
+Suddenly, I had an idea: what if I create a blog and post a brief summary of the blog entries on LinkedIn? Maybe even having a blog would improve my profile too.
 
-Sí, un blog parecía una estupenda idea: me gusta escribir mucho, y ser corto y poco extenso sin haber la necesidad no es lo mío; con esto puedo poner posts cortos y, si les interesa leer o ahondar más, podrían ir allí.
-Pensando y meditando sobre qué cosas de WFM podría postear, noté algo importante: a lo largo de mi carrera profesional, creé calculadoras, plantillas, macros, códigos, flujos de automatización, tableros, fórmulas y medidas, entre otras cosas, que, una vez sin empleo, perdí por completo el acceso a ellas. Todo cuanto había desarrollado, solucionado y aprendido, todo se había “perdido”.
+Yes, a blog seemed like a great idea: I like to write a lot, and being short and brief without the need for it is not my thing; with this, I can put short posts and, if they are interested in reading or delving deeper, they could go there.
+Thinking and meditating on what things about WFM I could post, I noticed something important: throughout my professional career, I created calculators, templates, macros, codes, automation flows, dashboards, formulas, and measures, among other things, which, once I was unemployed, I completely lost access to. Everything I had developed, solved, and learned had been completely "lost."
 
-Entonces, una idea que yo llamo “la primera segunda gran intención” brotó sola. Fue un proceso como el que describe Terry Pratchett en varios de sus libros de Mundo Disco. La idea vino a mí desde una fuente externa, cruzó kilómetros de redes neuronales para estrellarse entre mis ojos, lo suficientemente duro para hacerme saber que, aunque estaba en mi mente, esta no me pertenecía. Se había creado sola. Se sentía con conciencia propia. Yo no tuve la más mínima participación en ello.
-Era un pensamiento tan obvio que reclamó (y con justa razón) ser la idea principal y de mayor fuerza: volcar aquí lo más que pueda de conocimiento para que no lo vuelva a perder y le sea de ayuda a otros.
+Then, an idea that I call "the first second great intention" sprouted on its own. It was a process like the one Terry Pratchett describes in several of his Discworld books. The idea came to me from an external source, crossed miles of neural networks to crash right between my eyes, hard enough to let me know that, although it was in my mind, it did not belong to me. It had created itself. It felt conscious of its own. I didn't have the slightest involvement in it.
+It was such an obvious thought that it claimed (and rightly so) to be the main and strongest idea: to pour as much knowledge here as I can so that I don't lose it again and so it can be helpful to others.
 
-Esta primera segunda gran intención, con su propio ego, indignada porque tuvo que venir desde tan lejos, pues yo no parecía proclive a concebirla, explotó de ira y se ramificó; dividiéndose en pequeñas intenciones que me impulsaron a querer compartirlo casi todo. Y en ello, decidí incluir aquí algunos cuentos cortos que ya un tiempo atrás, muy atrás, escribí. Poemas también. Así que es la excusa perfecta para reencontrarme con una vieja pasión, poder escribir y darles rienda suelta a mis dedos (pondría tinta y papel en lugar de dedos, pero, aceptémoslo: estamos en el siglo XXI. La tinta, el papel y la pluma quedaron atrás; es hora de darle sentido poético y sublime a escribir con dedos, teclas y pantallas táctiles).
+This first second great intention, with its own ego, indignant because it had to come from so far away—since I didn't seem inclined to conceive it—exploded with anger and branched out; splitting into small intentions that drove me to want to share almost everything. And in doing so, I decided to include here some short stories that I wrote a long time ago, a very long time ago. Poems too. So it is the perfect excuse to reconnect with an old passion, to be able to write and give free rein to my fingers (I would put ink and paper instead of fingers, but let's face it: we are in the 21st century. Ink, paper, and the quill are behind us; it's time to give a poetic and sublime meaning to writing with fingers, keys, and touch screens).
 
-Dejando la fantasía atrás, me siento convencido de que dicha idea, en realidad, la puso Dios en mí. Yo solo quería hacer un par de publicaciones hasta conseguir empleo, pero Dios me hizo ver que disfrutararía escribiendo aquí; que esto tiene potencial para ser mucho más que solo un paso hacia el próximo empleo. Y que, más bien, la falta de empleo era algo circunstancial. Debí haberme decidido mucho antes a actualizar LinkedIn y crear un blog.
+Leaving fantasy behind, I feel convinced that this idea was actually placed in me by God. I just wanted to make a couple of posts until I got a job, but God made me see that I would enjoy writing here; that this has the potential to be much more than just a step toward the next job. And that, rather, the lack of employment was something circumstantial. I should have decided much sooner to update LinkedIn and create a blog.
 _______
 
-##  ✝️ ¿Y Cristo?
+##  ✝️ And what about Christ?
 
-Como ya intuyes, soy cristiano. Decidí que debía haber un espacio para compartir sobre mi fe; esto nació de mi corazón. Al momento de escribir esto (julio del 2026), aún no sé qué poner en el espacio que mi fe ocupará en esto; quizás sugerencias de libros cristianos, reflexiones (que no me convence mucho), pero creo que debo incluir una parte así, pues Cristo debe ser primero.
+As you probably noted, I am a Christian. I decided there should be a space to share about my faith; this was born from my heart. At the time of writing this (July 2026), I still don't know what to put in the space that my faith will occupy in this; perhaps suggestions for Christian books, reflections (which I'm not very convinced about), but I think I must include a part like this, because Christ must come first.
 
->Mi conocimiento y empleo no me definen; Cristo me define. Mi identidad está en él. Por lo que, si he de escribir sobre lo que sé, con mayor razón he de escribir sobre lo que soy: un siervo y discípulo de Cristo, Señor y Salvador.
+>My knowledge and my job do not define me; Christ defines me. My identity is in Him. Therefore, if I am to write about what I know, all the more reason I must write about what I am: a servant and disciple of Christ, Lord and Savior.
 
 _____
 
-## 😖 ¿por qué tengo que pagar? 
-Hacer este blog ha sido toda una experiencia. Desde encontrar el tema adecuado, las imágenes, los logos ideales. Los errores, la búsqueda de documentación, las IAs que, en lugar de ayudarte a corregir un bug, crean cien más.
+## 😖 Why do I have to pay? 
+Making this blog has been quite an experience. From finding the right theme, the images, the ideal logos. The errors, the search for documentation, the AIs that, instead of helping you fix a bug, create a hundred more.
 
-Comprar mi primer dominio: andresmontana.com fue algo completamente nuevo. Fue emocionante ser el dueño de un dominio por primera vez, pero me causó frustración saber que tenía que comprarlo. ¿Por qué debo pagarle a alguien, si se supone que el internet es libre? Pero ver el borrador del blog publicado bajo un dominio con mi nombre junto a un .com, y disponible para cualquiera, así como está disponible Wikipedia, fue muy excitante y fue motivo de mucha alegría para mí.
+Buying my first domain: andresmontana.com was something completely new. It was exciting to be the owner of a domain for the first time, but it caused me frustration to know that I had to buy it. Why should I pay someone if the internet is supposed to be free? But seeing the draft of the blog published under a domain with my name next to a .com, and available to anyone, just as Wikipedia is available, was very exciting and brought me a lot of joy.
 
-Imaginen, en mi país, Colombia, el nombre Andrés Montaña es muuuuuuuy común; es increíble que nunca antes nadie había registrado el dominio. No creo en las casualidades; tomo esto con fe como prueba de que estaba en los planes de mi Señor.
-Espero que este blog me permita hacer nuevas relaciones, más allá de encontrar un nuevo empleo. Eso ya no me preocupa; creo que el blog será más grande que el objetivo de encontrar un empleo (ese llegará o no, independiente del blog).
+Imagine, in my country, Colombia, the name Andrés Montaña is veeeeery common; it's incredible that no one had ever registered the domain before. I don't believe in coincidences; I take this with faith as proof that it was in my Lord's plans.
+I hope this blog allows me to make new relationships, beyond finding a new job. That no longer worries me; I believe the blog will be bigger than the goal of finding a job (that one will come or not, independent of the blog).
 ___
 
-## ✨ ¿Que espero con este Blog?
+## ✨ What do I expect from this Blog?
 
-Espero poder contactar con personas, intercambiar ideas, que surjan amistades cibernéticas y, sobre todo, ser útil para alguien, sacarle una sonrisa a más de uno, acercarme y acercar a otros un poco más a Dios mediante la reflexión y mis experiencias.
+I hope to connect with people, exchange ideas, form cyber-friendships, and, above all, be useful to someone, bring a smile to more than one person, and draw myself and others a little closer to God through reflection and my experiences.
 
-Si solo una persona encuentra de utilidad un post o un archivo que comparta por aquí, el objetivo se habrá cumplido. Si solo una persona logra reflexionar, pensar o tomar una Biblia para leer por causa de este blog, el Señor habrá sido más que bueno conmigo y me habrá honrado permitiéndome servirle de esa forma.
+If only one person finds a post or a file I share here useful, the goal will have been met. If only one person manages to reflect, think, or pick up a Bible to read because of this blog, the Lord will have been more than good to me and will have honored me by allowing me to serve Him in that way.
 
-## 👋 La depedida de un Cristiano:
+## 👋 A Christian's Farewell:
 
-_**Que la gracia de mi Señor Cristo Jesús, el amor de Dios y la comunión del Espíritu Santo sean contigo. Amén**._
+_**May the grace of my Lord Christ Jesus, the love of God, and the fellowship of the Holy Spirit be with you. Amen**._
 
-_**Dios te bendiga.**_ 🙏
+_**God bless you.**_ 🙏
+___
+
 </div>

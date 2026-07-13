@@ -1,14 +1,14 @@
 disabled = false
-locale = "en"
-label = "English"
-weight = 1
+locale = "es"
+label = "Español"
+weight = 2
 title = "Andres Montaña"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "ES"
+  isoCode = "es"
   rtl = false
-  dateFormat = "January 2 2006"
+  dateFormat = "2 January 2006"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
@@ -19,8 +19,8 @@ title = "Andres Montaña"
    email = "youremail@example.com"
    image = "img/profile.png"
    imageQuality = 96
-   headline = "... I can do all things through _Christ_ who strengtheneth me. <br> _Philippians 4:13_"
-   bio = "Industrial Engineering Student | WFM Analyst | Child of God"
+   headline = "... Todo lo puedo en _Cristo_ que me fortalece. <br> _Filipenses 4:13_"
+   bio = "Ingeniero Industrial (E) | WFM Analyst | hijo de Dios"
    links = [
       { linkedin = "https://www.linkedin.com/in/andres-felipe-monta%C3%B1a-gavalo/" },
       { email = "mailto:anfemonga@gmail.com" },
