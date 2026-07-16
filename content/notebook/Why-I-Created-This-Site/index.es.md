@@ -5,7 +5,7 @@ title = 'Porque creé este sitio'
 showAuthor= true
 showAuthorBottom= true
 showTaxonomies = true
-etiquetas = ["yo"]
+etiquetas = ["personal","sobre mi"]
 +++
     
 
@@ -60,13 +60,12 @@ ___
 
 Espero poder contactar con personas, intercambiar ideas, que surjan amistades cibernéticas y, sobre todo, ser útil para alguien, sacarle una sonrisa a más de uno, acercarme y acercar a otros un poco más a Dios mediante la reflexión y mis experiencias.
 
-Si solo una persona encuentra de utilidad un post o un archivo que comparta por aquí, el objetivo se habrá cumplido. Si solo una persona logra reflexionar, pensar o tomar una Biblia para leer por causa de este blog, el Señor habrá sido más que bueno conmigo y me habrá honrado permitiéndome servirle de esa forma.[^1]
+Si solo una persona encuentra de utilidad un post o un archivo que comparta por aquí, el objetivo se habrá cumplido. Si solo una persona logra reflexionar, pensar o tomar una Biblia para leer por causa de este blog, el Señor habrá sido más que bueno conmigo y me habrá honrado permitiéndome servirle de esa forma.
 
 ## 👋 La despedida de un Cristiano:
 
 _**Que la gracia de mi Señor Cristo Jesús, el amor de Dios y la comunión del Espíritu Santo sean contigo. Amén**._
 
 _**Dios te bendiga.**_ 🙏
-
-[^1]: Esta es la nota al pie de página que explica el detalle.
+___
 </div>

@@ -4,10 +4,7 @@ draft = false
 title = 'Why I Created This Site'
 showAuthor= true
 showAuthorBottom= true
-tags= ["me"]
-
-
-
+tags= ["personal","about"]
 +++
 
 
