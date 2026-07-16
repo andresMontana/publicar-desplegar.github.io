@@ -5,8 +5,5 @@ cascade:
   showReadingTime: false
 ---
 
-Esta sección contiene todos mis proyectos actuales.
-
-
-# Pagina WEB con mapas de mi tesis de grado.
-https://andresmontana.github.io/aet-vih-sida/
+### Esta sección contiene todos mis proyectos actuales.
+___
