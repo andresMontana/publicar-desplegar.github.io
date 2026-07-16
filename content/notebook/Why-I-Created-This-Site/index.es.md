@@ -1,7 +1,7 @@
 +++
 date = '2026-07-08T20:50:19-05:00'
 draft = false
-title = 'Cómo nació este sitio'
+title = 'Porque creé este sitio'
 showAuthor= true
 showAuthorBottom= true
 showTaxonomies = true

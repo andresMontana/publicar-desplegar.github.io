@@ -35,7 +35,7 @@ This blog is my little corner of the internet where I share what I'm learning ab
 
 I don't claim to have all the answers. My goal is simply to document the journey, share ideas, and hopefully help someone solve a problem or learn something new along the way.
 
-If you'd like to know more about why I started this blog and the story behind it, feel free to read this [post]({{< relref "notebook/How-This-Site-Was-Born/index.md" >}})..
+If you'd like to know more about why I started this blog and the story behind it, feel free to read this [post]({{< relref "notebook/Why-I-Created-This-Site/index.md" >}})..
 
 ## See you around!
 

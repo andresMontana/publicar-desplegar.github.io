@@ -35,7 +35,7 @@ Este blog es mi pequeño rincón en internet, un espacio donde comparto lo que v
 
 No pretendo tener todas las respuestas. Mi objetivo es simplemente documentar el camino, compartir ideas y, con un poco de suerte, ayudar a alguien a resolver un problema o aprender algo nuevo durante el proceso.
 
-Si quieres conocer más sobre por qué decidí crear este blog y la historia que hay detrás de él, te invito a leer esta [publicación]({{< relref "notebook/How-This-Site-Was-Born/index.es.md" >}}).
+Si quieres conocer más sobre por qué decidí crear este blog y la historia que hay detrás de él, te invito a leer esta [publicación]({{< relref "notebook/Why-I-Created-This-Siteindex.es.md" >}}).
 ___
 ## ¡Nos vemos por aquí!
 

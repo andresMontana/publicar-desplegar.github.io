@@ -1,7 +1,7 @@
 +++
 date = '2026-07-08T20:50:19-05:00'
 draft = false
-title = 'How This Site Was Born'
+title = 'Why I Created This Site'
 showAuthor= true
 showAuthorBottom= true
 tags= ["me"]
