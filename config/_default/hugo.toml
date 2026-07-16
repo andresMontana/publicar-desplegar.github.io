@@ -26,9 +26,11 @@ enableEmoji = true
 
 [taxonomies]
   tag = "tags"
+  etiqueta = "etiquetas"
   category = "categories"
   author = "authors"
   series = "series"
+
 
 [sitemap]
   changefreq = 'daily'

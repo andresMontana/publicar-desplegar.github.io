@@ -4,9 +4,10 @@ draft = false
 title = 'Cómo nació este sitio'
 showAuthor= true
 showAuthorBottom= true
-
+showTaxonomies = true
+etiquetas = ["yo"]
 +++
-
+    
 
 <div style="text-align: justify;">
 

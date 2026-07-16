@@ -1,7 +1,13 @@
 ---
-title: "Proyectos"
+title: "Projects"
 description: "Aprende sobre algunos de mis proyectos."
 cascade:
   showReadingTime: false
 ---
-Esta sección contiene todos mis proyectos actuales.
+
+This section contains all my current projects.
+
+
+# 
+A webpage featuring some maps from my undergraduate thesis.
+   https://andresmontana.github.io/aet-vih-sida/
